@@ -1,2 +1,4 @@
 # Parallelizing-Decryption-Alogirthm
-Paralleing decrypting using Caeser cipher and polyalphabetic algorithm. OpenMP programming is used for parallising alogorithm 
+Paralleing decryption using Caeser cipher and polyalphabetic algorithms. OpenMP programming is used for parallising alogorithm.
+
+# main idea is to parallalise the existing decrypting algorithms and run them parallaly. 
